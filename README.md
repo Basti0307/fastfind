@@ -2,7 +2,7 @@
 **Fast Find is a lightweight python library that lets you search files or directories extremely fast on Windows/Linux in your code while providing high customizability.**
 <br>
 ### Installation
-Use the following command to install fastfind:
+Use the following command to install FastFind:
 ```bash
 pip install fastfind
 ```
@@ -38,5 +38,5 @@ result = fastfind.search(query="hidden_file", search_type="any", max_results=100
 
 <br>
 
->[!NOTE]
+>[!IMPORTANT]
 >When you want to **include all subfolders of a folder** in "exclude_folders" or "roots" use **'/Folder/Path/.'** ! When only using **'/Folder/Path/'** no subfolders will be included and only the first layer of folders will be included/excluded when searching.
