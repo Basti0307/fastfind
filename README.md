@@ -1,10 +1,10 @@
-# fastfind-files
-**fastfind-files is a lightweight python library that lets you search files or directories extremely fast on Windows/Linux in your code while providing high customizability.**
+# fastfind_files
+**fastfind_files is a lightweight python library that lets you search files or directories extremely fast on Windows/Linux in your code while providing high customizability.**
 <br>
 ### Installation
-Use the following command to install fastfind-files:
+Use the following command to install fastfind_files:
 ```bash
-pip install fastfind-files
+pip install fastfind_files
 ```
 <br>
 
@@ -12,7 +12,7 @@ pip install fastfind-files
 Make sure to first import the library before using it in your code.
 
 ```python
-import fastfind-files as fastfind
+import fastfind_files as fastfind
 ```
 <br>
 
