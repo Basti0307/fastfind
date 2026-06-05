@@ -4,7 +4,7 @@
 ### Installation
 Use the following command to install fastfind:
 ```bash
-pip install fastfind
+pip install fastfind-files
 ```
 <br>
 
@@ -12,7 +12,7 @@ pip install fastfind
 Make sure to first import the library before using it in your code.
 
 ```python
-import fastfind
+import fastfind-files as fastfind
 ```
 <br>
 
